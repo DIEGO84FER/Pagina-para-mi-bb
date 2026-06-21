@@ -97,9 +97,12 @@ margin-top:10px;
 }
 
 .tree-container{
+    margin-top:40px;
+    margin-left: 75px;
     width:250px;
     height:350px;
     position:relative;
+    align-items: center;
 }
 
 #trunk{
