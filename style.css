@@ -131,6 +131,8 @@ h4 {
       font-family: 'Dancing Script', cursive;
           font-size:22px;
   transform: translateY(20px);
+    margin-left: 30px;
+  margin-right: 30px;
 }
 
 h4.aparecer {
